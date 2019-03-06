@@ -1,1 +1,1 @@
-egyszerû footer
+egyszeru footer
