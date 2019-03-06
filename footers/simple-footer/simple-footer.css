@@ -1,6 +1,4 @@
-* {
-  box-sizing: border-box;
-}
+/* ==== SIMPLE FOOTER STYLES ==== */
 
 footer {
   background: url('http://i.imgur.com/f4jGhSF.png') repeat center;
@@ -26,8 +24,8 @@ footer small {
 }
 
 .footer-nav a {
-  text-decoration: none;
   color: #c74f78;
+  text-decoration: none;
   margin: 0 .5rem;
   display: inline-block;
 }
@@ -37,6 +35,16 @@ footer small {
   transition: color .15s ease-in-out;
 }
 
+/* ==== GENERAL STYLES ==== */
+
+* {
+  box-sizing: border-box;
+}
+
 strong {
   font-weight: 700;
 }
+© 2019 GitHub, Inc.
+Terms
+Privacy
+Security
